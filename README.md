@@ -10,5 +10,4 @@
 + Terror Script Modules
 
 #### Issues
-
-- 
+- [ ] Hanul Taekwondo Script Not Working
